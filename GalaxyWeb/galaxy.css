@@ -53,8 +53,10 @@ body {
 	margin-bottom: 4.8rem;
 }
 
-.hero-image {
+.hero-image img {
 	margin-left: 1rem;
+	height: 50rem;
+	width: auto;
 }
 
 .btn,
