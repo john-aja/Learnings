@@ -82,7 +82,7 @@ main {
     font-size: 2.3rem;
     margin-bottom: 3rem;
     font-weight: 600;
-    width: 100vw;
+    /* width: 100vw; */
 }
 
 .learn-more {
@@ -747,6 +747,10 @@ main {
 
     .section-heading-1 {
         margin-left: 0rem;
+    }
+
+    .sub-head {
+        width: 100vw;
     }
 }
 
